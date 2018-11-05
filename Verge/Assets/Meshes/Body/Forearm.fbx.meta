@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: b2b0702dac25a93458f803b436de7754
+timeCreated: 1524091929
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Apendex
+    100002: Apendex I
+    100004: bicep
+    100006: Chassis
+    100008: elbow
+    100010: elbow.001
+    100012: //RootNode
+    100014: Forearm
+    100016: forearm01.001
+    100018: forearm01.002
+    100020: forearm01.003
+    100022: forearm02.001
+    100024: forearm02.002
+    100026: forearm02.003
+    100028: hand
+    100030: hips
+    100032: Humerus
+    100034: knee
+    100036: leg01
+    100038: leg02
+    100040: Neck
+    100042: Shoulder
+    100044: Shoulder.001
+    100046: Shoulder.002
+    100048: Shoulder.003
+    100050: tricep
+    100052: Radius.000
+    100054: Ulna.001
+    400000: Apendex
+    400002: Apendex I
+    400004: bicep
+    400006: Chassis
+    400008: elbow
+    400010: elbow.001
+    400012: Forearm
+    400014: //RootNode
+    400016: forearm01.001
+    400018: forearm01.002
+    400020: forearm01.003
+    400022: forearm02.001
+    400024: forearm02.002
+    400026: forearm02.003
+    400028: hand
+    400030: hips
+    400032: Humerus
+    400034: knee
+    400036: leg01
+    400038: leg02
+    400040: Neck
+    400042: Shoulder
+    400044: Shoulder.001
+    400046: Shoulder.002
+    400048: Shoulder.003
+    400050: tricep
+    400052: Radius.000
+    400054: Ulna.001
+    2100000: Material
+    2100002: No Name
+    2300000: Apendex
+    2300002: Apendex I
+    2300004: bicep
+    2300006: Chassis
+    2300008: elbow
+    2300010: elbow.001
+    2300012: Forearm
+    2300014: forearm01.001
+    2300016: forearm01.002
+    2300018: forearm01.003
+    2300020: forearm02.001
+    2300022: forearm02.002
+    2300024: forearm02.003
+    2300026: hand
+    2300028: hips
+    2300030: Humerus
+    2300032: knee
+    2300034: leg01
+    2300036: leg02
+    2300038: Neck
+    2300040: Shoulder
+    2300042: Shoulder.001
+    2300044: Shoulder.002
+    2300046: Shoulder.003
+    2300048: tricep
+    2300050: //RootNode
+    2300052: Radius.000
+    2300054: Ulna.001
+    3300000: Apendex
+    3300002: Apendex I
+    3300004: bicep
+    3300006: Chassis
+    3300008: elbow
+    3300010: elbow.001
+    3300012: Forearm
+    3300014: forearm01.001
+    3300016: forearm01.002
+    3300018: forearm01.003
+    3300020: forearm02.001
+    3300022: forearm02.002
+    3300024: forearm02.003
+    3300026: hand
+    3300028: hips
+    3300030: Humerus
+    3300032: knee
+    3300034: leg01
+    3300036: leg02
+    3300038: Neck
+    3300040: Shoulder
+    3300042: Shoulder.001
+    3300044: Shoulder.002
+    3300046: Shoulder.003
+    3300048: tricep
+    3300050: //RootNode
+    3300052: Radius.000
+    3300054: Ulna.001
+    4300000: Apendex I
+    4300002: Shoulder.003
+    4300004: Apendex
+    4300006: Chassis
+    4300008: Shoulder.002
+    4300010: Shoulder.001
+    4300012: Forearm
+    4300014: elbow.001
+    4300016: forearm01.003
+    4300018: forearm02.003
+    4300020: forearm02.002
+    4300022: forearm01.002
+    4300024: forearm01.001
+    4300026: forearm02.001
+    4300028: Humerus
+    4300030: leg02
+    4300032: knee
+    4300034: leg01
+    4300036: hips
+    4300038: hand
+    4300040: elbow
+    4300042: Neck
+    4300044: tricep
+    4300046: bicep
+    4300048: Shoulder
+    4300050: Ulna.001
+    4300052: Radius.000
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
