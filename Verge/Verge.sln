@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verge", "Assembly-CSharp.csproj", "{F3AC3348-781F-5AFE-7036-5753D02E821A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{F3AC3348-781F-5AFE-7036-5753D02E821A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

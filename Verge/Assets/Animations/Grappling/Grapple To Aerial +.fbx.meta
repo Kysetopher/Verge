@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: af7ef81b82c52d342970110a8c12b35d
+labels:
+- Character
 timeCreated: 1525645222
 licenseType: Free
 ModelImporter:
@@ -89,7 +91,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Wall Jump +
       takeName: mixamo.com
-      firstFrame: 0
+      firstFrame: 21
       lastFrame: 38
       wrapMode: 0
       orientationOffsetY: 0
